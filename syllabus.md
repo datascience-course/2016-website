@@ -8,7 +8,7 @@ order: 2
 
  <div class="deadline">The information here is subject to change! </div>
 
-Welcome to CS-5630 / CS-6630! This course is an introduction to key design principles and techniques for interactively visualizing data. The major goals of this course are to understand how visual representations can help in the analysis and understanding of complex data, how to design effective visualizations, and how to create your own interactive visualizations using modern web-based frameworks. 
+Welcome to CS-? / MATH-?! This course is an introduction to key design principles and techniques for interactively visualizing data. The major goals of this course are to understand how visual representations can help in the analysis and understanding of complex data, how to design effective visualizations, and how to create your own interactive visualizations using modern web-based frameworks. 
 
 **After successful completion of this course, you will be able to...**
 
