@@ -1,0 +1,23 @@
+# Site settings
+title: Introduction to Data Science
+email: contact@datasciencecourse.net
+description: "Introduction to Data Science Class at the University of Utah"
+footer: "© The University of Utah, 2016"
+baseurl: "/2016"
+url: "http://datasciencecourse.net/"
+#twitter_username: alexander_lex
+github_username:  datascience-course
+
+google_analytics: "UA-77097399-1"
+
+# Build settings
+#markdown: kramdown
+#kramdown:
+#   input: GFM
+
+permalink: pretty
+
+collections:
+ - lectures
+
+highlighter: pygments
