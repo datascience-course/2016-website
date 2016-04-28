@@ -18,7 +18,7 @@ The amount and complexity of information produced in science, engineering, busin
 In this course you will learn about the former two: statistics and computer science. The methods you learn about and the tools will get to know will help you do data analysis in your domain. 
  
 
-The course begins by bootstrapping your coding skills, moves on to fundamentals of statistics, followed by the five main topics covered in the course:
+The course begins by bootstrapping your coding skills, moves on to fundamentals of statistics, followed by the four main topics covered in the course:
  
   * **data wrangling**: how do I acquire, clean, reshape or sample data so that it's ready for further processing?
   * **data exploration**: how can we explore what's in the data?
