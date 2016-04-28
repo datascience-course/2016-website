@@ -6,9 +6,9 @@ require "stringex"
 
 public_dir      = "_site"    # compiled site directory
 deploy_dir      = "_deploy"
-deploy_subdirectory = "/2015/"
+deploy_subdirectory = "/2016/"
 server_port     = "4000"      # port for preview server eg. localhost:4000
-target_repo     = "git@github.com:dataviscourse/dataviscourse.github.io.git"
+target_repo     = "git@github.com:datascience-course/datascience-course.github.io.git"
 target_dev_repo = ""
 
 if (/cygwin|mswin|mingw|bccwin|wince|emx/ =~ RUBY_PLATFORM) != nil
@@ -219,10 +219,10 @@ def blog_url(project)
     url = if File.exists?('CNAME')
       "http://#{IO.read('CNAME').strip}"
     else
-      "http://dataviscourse.net"
+      "http://datasciencecourse.net"
     end
   else
-    url = "http://dataviscourse.net#{project}"
+    url = "http://datasciencecourse.net#{project}"
   end
   url
 end
