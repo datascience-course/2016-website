@@ -5,7 +5,6 @@ menu: Home
 order: 1
 ---
 
-
 <img src="{{ site.baseurl }}/assets/i/teaser.png" alt="vis teaser" />
 
 <div class="credits">
@@ -13,19 +12,20 @@ order: 1
 <a href="http://www.nytimes.com/interactive/2016/03/30/upshot/trump-clinton-delegate-calculator.html">How the delegate race could unfold</a>
 </div>
 
-The amount and complexity of information produced in science, engineering, business, and everyday human activity are increasing at a staggering rate. The goal of this course is to expose you to methods and techniques for analyzing and understanding complex data. Data Science is at the intersection of statistics, computer science, and a domain science.
+The amount and complexity of information produced in science, engineering, business, and everyday human activity are increasing at a staggering rate. The goal of this course is to expose you to methods and techniques for analyzing and understanding complex data. Data Science lies in the intersection of statistics, computer science, and a domain science. This course will provide an introduction to the former two: statistics and computer science and provide you with a toolset to conquer problems in your domain! 
 
-In this course you will learn about the former two: statistics and computer science. The methods you learn about and the tools will get to know will help you do data analysis in your domain. 
  
-
-The course begins by bootstrapping your coding skills, moves on to fundamentals of statistics, followed by the four main topics covered in the course:
+The course begins by bootstrapping your coding skills, and will move through a series of data science methods via 
+real-life, project-based, lectures and computer labs. The goal of this course is to develop your skill in: 
  
-  * **data wrangling**: how do I acquire, clean, reshape or sample data so that it's ready for further processing?
-  * **data exploration**: how can we explore what's in the data?
-  * **prediction**: given the data I have, can I make a judgment about other, similar data?
-  * **communication**: how can you communicate your findings to others?
+  * **data wrangling**: how to acquire, clean, reshape or sample data so that it's ready for further processing?
+  * **data exploration**: how analyze the signal in a large, noisy dataset?
+  * **prediction**: can inferences and decisions be made based on the available data? does this generalize to other, similar data?
+  * **communication**: how can findings be effectively communicated to others?
 
-The course is offered in the fall term 2016 at the University of Utah cross-listed between math and CS Classes start on Monday, August 22. 
+A more comprehensive description of the course material, including a list of projects, can be found in the syllabus [here](?how to link?). 
+
+The course is offered in the Fall 2016 semester at the University of Utah, cross-listed between Math and CS. 
 
 ### Instructors
 
