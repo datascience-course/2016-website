@@ -8,7 +8,8 @@ order: 2
 
  <div class="deadline">The information here is subject to change! </div>
 
-Welcome to CS-? / Math-?! This course is an introduction to key design principles and techniques for interactively visualizing data. The major goals of this course are to understand how visual representations can help in the analysis and understanding of complex data, how to design effective visualizations, and how to create your own interactive visualizations using modern web-based frameworks. 
+
+Welcome to CS-? / Math-?! This course is an introduction to data analysis. The major goals of this course are to learn how to use tools for acquiring and cleaning data; analyzing, exploring, and visualizing data; making data-driven inferences and decisions; and effectively communicating results. 
 
 **After successful completion of this course, you will be able to...**
 
@@ -22,13 +23,14 @@ Welcome to CS-? / Math-?! This course is an introduction to key design principle
 
 ### Prerequisites
 
-Students are expected to have programming experience ideally for web development. Skills about structured programming/software engineering are recommended. In this course you are required to develop significant projects in JavaScript and D3 which can have a steep learning curve. Exceptions by permission of the instructor.
+Students are expected to have some programming experience and have at least taken Calculus I (UU Math 1170, 1210, 1250 1310, 1311 or equivalent). If in doubt, ask one of the instructors. 
 
 
 ### Required Textbooks
 
-We will be using two textbooks for this class, one to cover conceptual aspects of visualization (referred to as VAD for reading assignments), one to teach the necessary technical skills (short form: D3).
+There is no required textbook for the class. However, students may consult the following textbooks for reference.  
 
+{% comment %}
 [Visualization Analysis and Design](http://www.amazon.com/Visualization-Analysis-Design-Peters-Series/dp/1466508914), Tamara Munzner, CRC Press (2014) - VAD
 ![]({{ site.baseurl }}/assets/i/visualization_analysis.jpg)
 
@@ -65,6 +67,8 @@ These recommended textbooks will allow you to deepen your understanding of speci
 
 ![]({{ site.baseurl }}/assets/i/functional_art.png)
 *“If graphic designer Nigel Holmes and data visualizer Edward Tufte had a child, his name would be Alberto Cairo. In The Functional Art, accomplished graphics journalist Cairo injects the chaotic world of infographics with a mature, thoughtful, and scientifically grounded perspective that it sorely needs. With extraordinary grace and clarity, Cairo seamlessly unites infographic form and function in a design philosophy that should endure for generations.” - Stephen Few, author of Show Me the Numbers*
+
+{% endcomment %}
 
 ## Course Components
 
@@ -164,8 +168,12 @@ It is very important to us that all assignments are properly graded. If you beli
 If you have a documented disability (physical or cognitive) that may impair your ability to complete assignments or otherwise participate in the course and satisfy course criteria, please meet with us at your earliest convenience to identify, discuss, and document any feasible instructional modifications or accommodations.
 
 ### Credits
+
+{% comment %}
 This class is based on the classes taught by **Hanspeter Pfister** at Harvard and **Miriah Meyer** at the University of Utah and draws on the book by **Tamara Munzner** at the University of British Columbia. Some of the material in this course is based on the classes taught by **Carlos Scheidegger** at the University of Arizona,  **Marc Streit** at JKU Linz, **Pat Hanrahan** at Stanford, **Jeff Heer** at the University of Washington, **Hans-Joerg Schulz** at the University of Rostock, **Nils Gehlenborg** at the Harvard Medical School, **Torsten Möller** at the University of Vienna, **Hewlig Hauser** at the University of Bergen, and **Maneesh Agrawala** and UC Berkeley. We have heavily drawn on materials and examples found online and tried our best to give credit by linking to the original source. You can find these credits mainly by direct links to the sources from the images. Please contact us if you find materials where the credit is missing or that you would rather have removed.
 
 ### User Notice for Copyrighted Materials on Course Websites
 This course website, and much of the text, images, graphics, audio and video clips, and other content of the site (collectively, the “Content”), are protected by copyright law. In some cases, the copyright is owned by third parties, and we are making the third-party content available to you under the fair use doctrine. Fair use permits only certain limited uses of the Content.
 You may use the website and its Content only for your personal, noncommercial educational and scholarly use. Some Content may be provided via streaming or other means that restrict copying; you may not circumvent those restrictions. If you wish to distribute or make any of the Content available to others, or to use any Content commercially, or to use any Content for any purpose other than your personal, noncommercial educational and scholarly use, you must obtain any required permission from the copyright holder. User notice courtesy of the Harvard University Office of General Counsel.
+
+{% endcomment %}
