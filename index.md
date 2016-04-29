@@ -19,7 +19,7 @@ The course begins by bootstrapping your coding skills, and will move through a s
 real-life, project-based, lectures and computer labs. The goal of this course is to develop your skills in: 
  
   * **data wrangling**: how to acquire, clean, reshape or sample data so that it's ready for further processing?
-  * **data exploration**: how analyze the signal in a large, noisy dataset?
+  * **data exploration**: how to analyze the signal in a large, noisy dataset?
   * **prediction**: can inferences and decisions be made based on the available data? 
   * **communication**: how can findings be effectively communicated to others?
 
