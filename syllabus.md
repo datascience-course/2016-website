@@ -2,7 +2,7 @@
 layout: page
 title: Syllabus
 permalink: /syllabus/
-#menu: Syllabus
+menu: Syllabus
 order: 2
 ---
 
