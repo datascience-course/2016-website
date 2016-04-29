@@ -9,12 +9,16 @@ order: 2
  <div class="deadline">The information here is subject to change! </div>
 
 
-Welcome to CS-? / Math-?! This course is an introduction to data analysis. The major goals of this course are to learn how to use tools for acquiring and cleaning data; analyzing, exploring, and visualizing data; making data-driven inferences and decisions; and effectively communicating results. This will be accomplished through a series of projects which will teach the following data analytic methods:
+Welcome to CS-? / Math-?! This course is an introduction to data analysis. The major goals of this course are to learn how to use tools for acquiring and cleaning data; analyzing, exploring, and visualizing data; making data-driven inferences and decisions; and effectively communicating results. These will be accomplished through an in-depth sequence of topics which will introduce students to the following data analysis methods:
 
 * Rating and ranking
 * Clustering and classification
 * Recommendation 
 * Network analysis 
+* Linear regression
+*
+
+A major component of this course will be learning how to use python-based programming tools to apply these methods to real-life datasets.
 
 {% comment %}
 **After successful completion of this course, you will be able to...**
