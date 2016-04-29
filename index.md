@@ -44,10 +44,9 @@ TBA
 
 **Labs:** Friday
 
-{% comment %}
 **Online discussion:** We use Canvas for discussions and questions. 
-**Office Hours:** See [this calendar](https://www.google.com/calendar/embed?src=fdvio7r8i82kk0vl2to5j3dd1s%40group.calendar.google.com&ctz=America/Denver).
-{% endcomment %}
+
+**Office Hours:** TBA
 
 {% comment %}
 **Online discussion:** We use [Piazza](http://piazza.com/utah/fall2015/cs5630cs6630) for discussions and questions. Please sign up with your utah.edu e-mail address.
