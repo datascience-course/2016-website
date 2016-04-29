@@ -12,11 +12,11 @@ order: 1
 <a href="http://www.nytimes.com/interactive/2016/03/30/upshot/trump-clinton-delegate-calculator.html">How the delegate race could unfold</a>
 </div>
 
-The amount and complexity of information produced in science, engineering, business, and everyday human activity are increasing at a staggering rate. The goal of this course is to expose you to methods and techniques for analyzing and understanding complex data. Data Science lies in the intersection of statistics, computer science, and a domain science. This course will provide an introduction to the former two: statistics and computer science and provide you with a toolset to conquer problems in your domain! 
+The amount and complexity of information produced in science, engineering, business, and everyday human activity are increasing at a staggering rate. The goal of this course is to expose you to methods and techniques for analyzing and understanding complex data. Data Science lies in the intersection of statistics, computer science, and, of course, the domain from which the data comes from. This course will provide an introduction to the former two: statistics and computer science and provide you with a toolset to conquer problems in your domain! 
 
  
 The course begins by bootstrapping your coding skills, and will move through a series of data science methods via 
-real-life, project-based, lectures and computer labs. The goal of this course is to develop your skill in: 
+real-life, project-based, lectures and computer labs. The goal of this course is to develop your skills in: 
  
   * **data wrangling**: how to acquire, clean, reshape or sample data so that it's ready for further processing?
   * **data exploration**: how analyze the signal in a large, noisy dataset?
@@ -25,7 +25,7 @@ real-life, project-based, lectures and computer labs. The goal of this course is
 
 A more comprehensive description of the course material, including a list of projects, can be found in the syllabus [here](?how to link?). 
 
-The course is offered in the Fall 2016 semester at the University of Utah, cross-listed between Math and CS. 
+This course is offered in the Fall 2016 semester at the University of Utah, cross-listed between Math and CS. 
 
 ### Instructors
 
