@@ -16,7 +16,6 @@ Welcome to CS-? / Math-?! This course is an introduction to data analysis. The m
 * Recommendation 
 * Network analysis 
 * Linear regression
-*
 
 A major component of this course will be learning how to use python-based programming tools to apply these methods to real-life datasets.
 
