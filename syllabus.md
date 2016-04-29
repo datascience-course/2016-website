@@ -51,6 +51,9 @@ Cathy O'Neil, [Doing Data Science: Straight Talk from the Frontline](http://www.
 {% endcomment %}
 
 Jure Leskovec, Anand Rajaraman, and Jeffrey David Ullman, [Mining of Massive Datasets](http://www.amazon.com/Mining-Massive-Datasets-Jure-Leskovec/dp/1107077230), 2nd ed.,  Cambridge University Press (2014).
+{% comment %}
+![](http://ecx.images-amazon.com/images/I/51FhRbtDSzL._SX348_BO1,204,203,200_.jpg)
+{% endcomment %}
 
 Jiawei Han, Micheline Kamber, and Jian Pei, [Data Mining: Concepts and Techniques](http://www.amazon.com/Data-Mining-Concepts-Techniques-Management/dp/0123814790), 3rd ed., Morgan Kaufmann (2011). 
 {% comment %}
