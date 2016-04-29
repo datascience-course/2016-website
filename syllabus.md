@@ -31,7 +31,22 @@ Students are expected to have some programming experience and have at least take
 There is no required textbook for the class. However, students may consult the following textbooks for reference.  
 
 Joel Grus, [Data Science from Scratch: First Principles with Python](http://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X), O'Reilly Media (2015). 
+{% comment %}
 ![](http://ecx.images-amazon.com/images/I/51Cf7c2AlpL._SX379_BO1,204,203,200_.jpg)
+{% endcomment %}
+
+Cathy O'Neil, [Doing Data Science: Straight Talk from the Frontline](http://www.amazon.com/Doing-Data-Science-Straight-Frontline/dp/1449358659), O'Reilly Media (2013).
+{% comment %}
+![](http://ecx.images-amazon.com/images/I/51pQVQu3VEL._SX331_BO1,204,203,200_.jpg)
+{% endcomment %}
+
+Jure Leskovec, Anand Rajaraman, and Jeffrey David Ullman, [Mining of Massive Datasets](http://www.amazon.com/Mining-Massive-Datasets-Jure-Leskovec/dp/1107077230), 2nd ed.,  Cambridge University Press (2014).
+
+Jiawei Han, Micheline Kamber, and Jian Pei, [Data Mining: Concepts and Techniques](http://www.amazon.com/Data-Mining-Concepts-Techniques-Management/dp/0123814790), 3rd ed., Morgan Kaufmann (2011). 
+{% comment %}
+![](http://ecx.images-amazon.com/images/I/51mezoFdb%2BL._SX403_BO1,204,203,200_.jpg)
+{% endcomment %}
+
 
 {% comment %}
 [Visualization Analysis and Design](http://www.amazon.com/Visualization-Analysis-Design-Peters-Series/dp/1466508914), Tamara Munzner, CRC Press (2014) - VAD
