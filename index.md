@@ -13,7 +13,7 @@ order: 1
 <a href="http://www.nytimes.com/interactive/2016/03/30/upshot/trump-clinton-delegate-calculator.html">How the delegate race could unfold</a>
 </div>
 
-The amount and complexity of information produced in science, engineering, business, and everyday human activity is increasing at staggering rates. The goal of this course is to expose you to methods and techniques that increase the understanding of complex data. Data Science is at the intersection of statistics, computer science, and a domain science.
+The amount and complexity of information produced in science, engineering, business, and everyday human activity are increasing at a staggering rate. The goal of this course is to expose you to methods and techniques for analyzing and understanding complex data. Data Science is at the intersection of statistics, computer science, and a domain science.
 
 In this course you will learn about the former two: statistics and computer science. The methods you learn about and the tools will get to know will help you do data analysis in your domain. 
  
@@ -44,6 +44,10 @@ TBA
 **Lectures:** Monday, Wednesday
 
 **Labs:** Friday
+
+{% comment %}
+**Online discussion:** We use Canvas for discussions and questions. 
+**Office Hours:** See [this calendar](https://www.google.com/calendar/embed?src=fdvio7r8i82kk0vl2to5j3dd1s%40group.calendar.google.com&ctz=America/Denver).
 
 {% comment %}
 **Online discussion:** We use [Piazza](http://piazza.com/utah/fall2015/cs5630cs6630) for discussions and questions. Please sign up with your utah.edu e-mail address.
