@@ -26,9 +26,12 @@ Welcome to CS-? / Math-?! This course is an introduction to data analysis. The m
 Students are expected to have some programming experience and have at least taken Calculus I (UU Math 1170, 1210, 1250 1310, 1311 or equivalent). If in doubt, ask one of the instructors. 
 
 
-### Required Textbooks
+### Textbooks
 
 There is no required textbook for the class. However, students may consult the following textbooks for reference.  
+
+Joel Grus, [Data Science from Scratch: First Principles with Python](http://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X), O'Reilly Media (2015). 
+![](http://ecx.images-amazon.com/images/I/51Cf7c2AlpL._SX379_BO1,204,203,200_.jpg)
 
 {% comment %}
 [Visualization Analysis and Design](http://www.amazon.com/Visualization-Analysis-Design-Peters-Series/dp/1466508914), Tamara Munzner, CRC Press (2014) - VAD
@@ -48,6 +51,7 @@ There is no required textbook for the class. However, students may consult the f
 ### Recommended Textbooks
 
 These recommended textbooks will allow you to deepen your understanding of specific aspects of the course, such as perception and storytelling.
+
 
 [Design for Information](http://www.amazon.com/Design-Information-Isabel-Meirelles/dp/1592538061), Isabel Meirelles, Rockport (2013)
 
@@ -75,6 +79,8 @@ These recommended textbooks will allow you to deepen your understanding of speci
 ### Lectures
 The class meets twice a week for lectures and joint class activities. The class activities are designed to help you master the relevant materials, to work on your homework in groups, and to get you started on your project. The weekly schedule of lectures is posted on the course web site.
 
+### Computer Lab 
+Lectures are supplemented a weekly computer lab. Labs are an important aspect of the course, as they are meant to give you the technical skills to successfully complete the homework assignments and projects, complementing the theoretical knowledge taught in lectures. Sections will typically consist of a short presentation and live coding of an instructor or teaching assistant, followed by time to complete some exercises with the help of the instructor and teaching assistants. Sections will also give you the opportunity to seek help on homeworks and your project. Computer lab topics are announced in the schedule. 
 
 <!--### Sections
 Lectures are supplemented by 60- to 90-minute sections led by the teaching fellows. Sections are limited to about 20 students (the numbers may vary due to enrollment); one of the sections will be recorded and made available to online students. Sections are an important aspect of the course, as they are meant to give you the technical skills to successfully complete the homework assignments and projects, complementing the theoretical knowledge taught in lectures. Sections will typically consist of a short presentation and live coding of a teaching fellow, followed by time to complete some exercises with the support of the present teaching fellows. Sections will also give you the opportunity to work on your homework and your projects while TFs are present to answer your questions. Section topics are announced in the schedule. A transcript of the section will be published on this website. -->
@@ -104,11 +110,9 @@ Read [more on the issue by Clay Shirky](https://medium.com/@cshirky/why-i-just-a
 ### Assessment Procedure
 Your final grade will be determined by the number of points you collect. You can collect various amounts of points for the different parts of the class:
 
- * Project: 40%, assessed on meeting the project criteria and your peer assessment. The 40% are split between the two milestones. 10% are assigned to your first milestone, 30% to your final submission.
- * Homework: 40%, assessed on your individual submission.  The homework assignments are weighted based on difficulty and length (A two week homework counts more than a one week homework).
- * Exams: 20%, 10% each. There will be no final examination in this course. The weighting of the assignments may change as the semester goes on. 
- 
-
+* Homework: 60%, assessed on your individual submission.  The homework assignments are weighted based on difficulty and length (A two week homework counts more than a one week homework).
+ * Project: 40%, assessed on meeting the project criteria and your peer assessment. The 40% is split between the two milestones. 10% are assigned to your first milestone, 30% to your final submission.
+ * 
 We will evaluate your work holistically beyond mechanical correctness and focus on the overall quality of the work using the following scale (in 0.5 increments):
 
 10 = Excellent / no mistakes (or really minor)
