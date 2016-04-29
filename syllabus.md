@@ -9,8 +9,14 @@ order: 2
  <div class="deadline">The information here is subject to change! </div>
 
 
-Welcome to CS-? / Math-?! This course is an introduction to data analysis. The major goals of this course are to learn how to use tools for acquiring and cleaning data; analyzing, exploring, and visualizing data; making data-driven inferences and decisions; and effectively communicating results. 
+Welcome to CS-? / Math-?! This course is an introduction to data analysis. The major goals of this course are to learn how to use tools for acquiring and cleaning data; analyzing, exploring, and visualizing data; making data-driven inferences and decisions; and effectively communicating results. This will be accomplished through a series of projects which will teach the following data analytic methods:
 
+* Rating and ranking
+* Clustering and classification
+* Recommendation 
+* Network analysis 
+
+{% endcomment %}
 **After successful completion of this course, you will be able to...**
 
  * Critically evaluate visualizations and suggest improvements and refinements
@@ -18,7 +24,8 @@ Welcome to CS-? / Math-?! This course is an introduction to data analysis. The m
  * Conceptualize ideas and interaction techniques using sketching 
  * Use principles of human perception and cognition in visualization design
  * Create web-based interactive visualizations using HTML 5,  JavaScript and D3
- 
+{% endcomment %}
+
 ## Course Logistics
 
 ### Prerequisites
@@ -168,7 +175,7 @@ In the professional world, three important features affect your productivity and
 Your teammates’ assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall course evaluation.
 
 ### Collaboration Policy
-You are welcome to discuss the course's ideas, material, and homework with others in order to better understand it, but **the work you turn in must be your own** (or for the project, yours and your teammate’s). For example, you must write your own code, design your own visualizations, and critically evaluate the results in your own words. You may not submit the same or similar work to this course that you have submitted or will submit to another. Nor may you provide or make available solutions to homeworks to individuals who take or may take this course in the future. 
+You are welcome (and encouraged!) to discuss the course's ideas, material, and homework with others in order to better understand it, but **the work you turn in must be your own** (or for the project, yours and your teammate’s). For example, you must write your own code, design your own visualizations, and critically evaluate the results in your own words. You may not submit the same or similar work to this course that you have submitted or will submit to another. Nor may you provide or make available solutions to homeworks to individuals who take or may take this course in the future. 
 
 ### Quoting Sources 
 You must acknowledge any source code that was not written by you by mentioning the original author(s) directly in your source code (comment or header). You can also acknowledge sources in a README.txt file if you used whole classes or libraries. Do not remove any original copyright notices and headers. However, you are encouraged to use libraries, unless explicitly stated otherwise! 
