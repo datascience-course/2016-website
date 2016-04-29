@@ -38,7 +38,7 @@ Students are expected to have some programming experience and have at least take
 
 ### Textbooks
 
-There is no required textbook for the class. However, students may consult the following textbooks for reference.  
+There is no required textbook for the class. However, students may find it useful to consult the following textbooks for reference.  
 
 Joel Grus, [Data Science from Scratch: First Principles with Python](http://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X), O'Reilly Media (2015). 
 {% comment %}
