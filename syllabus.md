@@ -16,7 +16,7 @@ Welcome to CS-? / Math-?! This course is an introduction to data analysis. The m
 * Recommendation 
 * Network analysis 
 
-{% endcomment %}
+{% comment %}
 **After successful completion of this course, you will be able to...**
 
  * Critically evaluate visualizations and suggest improvements and refinements
