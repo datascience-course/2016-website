@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Homework & Design Studios
-menu: Homework
+#menu: Homework
 permalink: /homework/
 order: 4
 ---
