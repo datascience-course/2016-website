@@ -31,12 +31,10 @@ This course is offered in the Fall 2016 semester at the University of Utah, cros
 
 **[Alexander Lex](http://alexander-lex.net)**, Computer Science, [alex@sci.utah.edu](mailto:alex@sci.utah.edu)
 Office: WEB 3887
-
 **[Braxton Osting](http://www.math.utah.edu/~osting/)**, Mathematics, [osting@math.utah.edu](osting@math.utah.edu)
 Office: LCB 116
 
 ### Teaching Assistants
-
 TBA 
 
 ### Logistics
