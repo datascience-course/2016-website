@@ -20,7 +20,7 @@ real-life, project-based, lectures and computer labs. The goal of this course is
  
   * **data wrangling**: how to acquire, clean, reshape or sample data so that it's ready for further processing?
   * **data exploration**: how analyze the signal in a large, noisy dataset?
-  * **prediction**: can inferences and decisions be made based on the available data? does this generalize to other, similar data?
+  * **prediction**: can inferences and decisions be made based on the available data? 
   * **communication**: how can findings be effectively communicated to others?
 
 A more comprehensive description of the course material, including a list of projects, can be found in the syllabus [here](?how to link?). 
