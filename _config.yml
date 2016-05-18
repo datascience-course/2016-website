@@ -12,8 +12,8 @@ google_analytics: "UA-77097399-1"
 
 # Build settings
 #markdown: kramdown
-#kramdown:
-#   input: GFM
+kramdown:
+   input: GFM
 
 permalink: pretty
 
