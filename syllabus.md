@@ -41,25 +41,40 @@ Students are expected to have some programming experience and have at least take
 
 There is no required textbook for the class. However, students may find it useful to consult the following textbooks for reference.  
 
-Joel Grus, [Data Science from Scratch: First Principles with Python](http://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X), O'Reilly Media (2015). 
-{% comment %}
-![](http://ecx.images-amazon.com/images/I/51Cf7c2AlpL._SX379_BO1,204,203,200_.jpg)
-{% endcomment %}
+![]({{ site.baseurl }}/assets/i/ds_scratch.jpg)
+**[Data Science from Scratch: First Principles with Python](http://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)**  
+Joel Grus  
+O'Reilly Media (2015)   
 
-Cathy O'Neil, [Doing Data Science: Straight Talk from the Frontline](http://www.amazon.com/Doing-Data-Science-Straight-Frontline/dp/1449358659), O'Reilly Media (2013).
-{% comment %}
-![](http://ecx.images-amazon.com/images/I/51pQVQu3VEL._SX331_BO1,204,203,200_.jpg)
-{% endcomment %}
+*Data science libraries, frameworks, modules, and toolkits are great for doing data science, but they’re also a good way to dive into the discipline without actually understanding data science. In this book, you’ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch.*  
+[Read for free on Campus](http://proquest.safaribooksonline.com/9781491901410) 
 
-Jure Leskovec, Anand Rajaraman, and Jeffrey David Ullman, [Mining of Massive Datasets](http://www.amazon.com/Mining-Massive-Datasets-Jure-Leskovec/dp/1107077230), 2nd ed.,  Cambridge University Press (2014).
-{% comment %}
-![](http://ecx.images-amazon.com/images/I/51FhRbtDSzL._SX348_BO1,204,203,200_.jpg)
-{% endcomment %}
 
-Jiawei Han, Micheline Kamber, and Jian Pei, [Data Mining: Concepts and Techniques](http://www.amazon.com/Data-Mining-Concepts-Techniques-Management/dp/0123814790), 3rd ed., Morgan Kaufmann (2011). 
-{% comment %}
-![](http://ecx.images-amazon.com/images/I/51mezoFdb%2BL._SX403_BO1,204,203,200_.jpg)
-{% endcomment %}
+![]({{ site.baseurl }}/assets/i/dds.jpg)
+**[Doing Data Science: Straight Talk from the Frontline](http://www.amazon.com/Doing-Data-Science-Straight-Frontline/dp/1449358659)**  
+Cathy O'Neil, Rachel Schutt   
+O'Reilly Media (2013)
+
+*Now that people are aware that data can make the difference in an election or a business model, data science as an occupation is gaining ground. But how can you get started working in a wide-ranging, interdisciplinary field that’s so clouded in hype? This insightful book, based on Columbia University’s Introduction to Data Science class, tells you what you need to know.*  
+[Blog that was the basis for this book](https://columbiadatascience.com/doing-data-science/)
+<br /><br />
+
+![]({{ site.baseurl }}/assets/i/momd.jpg)
+**[Mining of Massive Datasets](http://www.amazon.com/Mining-Massive-Datasets-Jure-Leskovec/dp/1107077230)**  
+ Jure Leskovec, Anand Rajaraman, and Jeffrey David Ullman   
+ 2nd ed.,  Cambridge University Press (2014)
+ 
+*The book is based on Stanford Computer Science course CS246: Mining Massive Datasets (and CS345A: Data Mining).*  
+*The book, like the course, is designed at the undergraduate computer science level with no formal prerequisites. To support deeper explorations, most of the chapters are supplemented with further reading references.*  
+[Download from book website](http://www.mmds.org/)
+
+![]({{ site.baseurl }}/assets/i/dmct.jpg)
+**[Data Mining: Concepts and Techniques](http://www.amazon.com/Data-Mining-Concepts-Techniques-Management/dp/0123814790)**  
+Jiawei Han, Micheline Kamber, and Jian Pei  
+3rd ed., Morgan Kaufmann (2011) 
+
+*Data Mining: Concepts and Techniques provides the concepts and techniques in processing gathered data or information, which will be used in various applications. Specifically, it explains data mining and the tools used in discovering knowledge from the collected data. This book is referred as the knowledge discovery from data (KDD). It focuses on the feasibility, usefulness, effectiveness, and scalability of techniques of large data sets.*
+
 
 
 {% comment %}
@@ -126,7 +141,7 @@ The course schedule includes required weekly readings – you are free to study 
 Neither mathematics or computer science are spectator sports; mastery of either subject requires a significant amount of practice! Homework assignments provide an opportunity to practice your programming skills, think about analytical concepts in a new way, and to test your understanding of the material. The homework assignments are also designed to prepare you for your course project. You should view the homework as an opportunity to learn, and not to “earn points”. The homework will be graded holistically to reflect this objective. Homework will be submitted through Canvas. 
 
 ### Course Project
-At the core of this course is a course project. The goal of the project is to analyze a topic of your choosing and write a paper summarizing your findings. You will acquire and clean the data, use tools from the class to explore, describe, and analyze the data, and evalute the results to make a predictions. The path to a good project will involve mistakes and wrong turns. It is therefore important to recognize that mistakes are valuable in finding the path to a solution, but will require a significant ammount of time. **It is therefore imperitive that you begin your project early!** The project has an intermediate milestone that will allow you to get feedback and to iterate. 
+At the core of this course is a course project. The goal of the project is to analyze a topic of your choosing and write a paper summarizing your findings. You will acquire and clean the data, use tools from the class to explore, describe, and analyze the data, and evalute the results to make a predictions. The path to a good project will involve mistakes and wrong turns. It is therefore important to recognize that mistakes are valuable in finding the path to a solution, but will require a significant ammount of time. **It is therefore imperative that you begin your project early!** The project has an intermediate milestone that will allow you to get feedback and to iterate. 
 
 In your project you will work closely with classmates in 2-3 person project teams. You can come up with your own teams and use Canvas to find prospective team members. If you cannot find a partner we will team you up randomly. 
 
