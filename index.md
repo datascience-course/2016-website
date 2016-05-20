@@ -25,7 +25,7 @@ real-life, project-based, lectures and computer labs. The goal of this course is
 
 A more comprehensive description of the course material, including a list of projects, can be found in the [syllabus]({{site.baseurl}}/syllabus/). 
 
-This course is offered in the Fall 2016 semester at the University of Utah, cross-listed between Math (MATH 3900) and CS (CS 5963). 
+This course is offered in the Fall 2016 semester at the University of Utah, cross-listed between Mathematics (MATH 3900) and Computer Science (CS 5963). 
 
 ### Is this course for me? 
 
