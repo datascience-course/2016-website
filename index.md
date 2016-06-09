@@ -12,10 +12,10 @@ order: 1
 <a href="http://www.nytimes.com/interactive/2016/03/30/upshot/trump-clinton-delegate-calculator.html">How the delegate race could unfold</a>
 </div>
 
-The amount and complexity of information produced in science, engineering, business, and everyday human activity are increasing at a staggering rate. The goal of this course is to expose you to methods and techniques for analyzing and understanding complex data. Data Science lies in the intersection of statistics, computer science, and, of course, the domain from which the data comes from. This course will provide an introduction to the former two: statistics and computer science and provide you with a toolset to conquer problems in your domain! 
+The amount and complexity of information produced in science, engineering, business, and everyday human activity are increasing at a staggering rate. **The goal of this course is to expose you to methods and techniques for analyzing and understanding complex data.** Data Science lies at the intersection of statistics, computer science, and, of course, the domain from which the data comes from. This course will provide an introduction to the former two: statistics and computer science and provide you with a toolset to conquer problems in your domain! 
 
  
-The course begins by bootstrapping your coding skills, and will move through a series of data science methods via 
+The course begins by **bootstrapping your coding skills** (we will be using Python), and will move through a series of data science methods via 
 real-life, project-based, lectures and computer labs. The goal of this course is to develop your skills in: 
  
   * **data wrangling**: how to acquire, clean, reshape or sample data so that it's ready for further processing?
@@ -29,11 +29,21 @@ This course is offered in the Fall 2016 semester at the University of Utah, cros
 
 ### Is this course for me? 
 
-This course is designed for both undergraduates and graduates that major in fields other than Computer Science and Mathematics. So, if you are a student in, for example, Biology, Chemistry, Social Sciences, Psychology, Business, etc., and want to learn some computational and quantitative skills to be successful in your field as it transforms in an age increasingly dominated by data and computation, this course might be for you! 
+This course is **designed for both undergraduates and graduates that major in various fields**. So, if you are a student in, for example, Biology, Chemistry, Social Sciences, Psychology, Business, etc., and want to learn some computational and quantitative skills to be successful in your field as it transforms in an age increasingly dominated by data and computation, this course might be for you! 
 
 This is an introductory course: **we will introduce both programming concepts and the necessary statistics**, yet we do expect you to have at least a little background in programming and math. If you don't know what a for-loop or a function is, for example, you first might want to take a course like [CS 1060](http://www.sci.utah.edu/~beiwang/teaching/cs1060.html).  
 
-The formal prerequisite for this course is Calculus I (UU Math 1170, 1210, 1250 1310, 1311 or equivalent).
+The formal prerequisite for this course is Calculus I (UU Math 1170, 1210, 1250 1310, 1311 or equivalent), but we'll waive the formal prerequisite if you can demonstrate other, similar quantitative skills. 
+
+### Can I get quantitative reasoning or elective credit for this class?
+ 
+This is a new class, so it currently doesn't count as an elective for your program or as a quantitative reasoning general education requirement by default. However, you can petition for the course to count toward your degree, which we will support. 
+
+This class will satisfy the computing requirements for applied math students.
+
+### How do I enroll in this class?
+
+You can either enroll for the MATH (MATH 3900) version and request a permission code [here](https://mail.math.utah.edu/prereq/student/prereq_request_2016fall/), or the CS (CS 5963) version and request a permission code [here](http://www.cs.utah.edu/forms/permission-code-request/). For the CS version, please enroll through the lab section. 
 
 ### Instructors
 
@@ -51,32 +61,15 @@ Magalena Schwarzl
 
 ### Logistics
 
-**Lectures:** Monday, Wednesday
+**Lectures:** Monday, Wednesday  
+Lectures introduce the theoretical concepts. 
 
-**Labs:** Friday
+**Labs:** Friday  
+Labs revisit the concepts introduced in lecutres in practical terms. We will typically run coding exercises in the lab. Please bring your laptop computer! 
 
-**Online discussion:** We use Canvas for discussions and questions. 
+**Office Hours:** TBA  
 
-**Office Hours:** TBA
-
-{% comment %}
-**Online discussion:** We use [Piazza](http://piazza.com/utah/fall2015/cs5630cs6630) for discussions and questions. Please sign up with your utah.edu e-mail address.
-**Office Hours:** See [this calendar](https://www.google.com/calendar/embed?src=fdvio7r8i82kk0vl2to5j3dd1s%40group.calendar.google.com&ctz=America/Denver).
-**Live Video:** [YouTube Channel](https://www.youtube.com/channel/UCDUS80bdunpmvWVPyFRPqFQ/live)
-**Archived Video:** [YouTube Playlist](https://www.youtube.com/playlist?list=PLbuogVdPnkCqKBoObk03Aq3tgitxJXJcO)
+**Online discussion, grades, etc:** We use [Canvas](https://utah.instructure.com/courses/389967) for discussions and questions. 
 
 
-### Previous Versions of this Class
 
-If you want to look ahead in the class you can browse two different classes that were offered in the past. This class takes inspiration from both of them: 
-
-**Harvard CS 171 2015**
-Instructor: Alexander Lex
-[http://cs171.org/2015/](http://cs171.org/2015/)
-[Live Video](http://cm.dce.harvard.edu/classroom/) (choose CSCI E-171)
-[Video Archive](http://cm.dce.harvard.edu/2015/02/24028/publicationListing.shtml)
-
-**Utah CS-5630/CS5660 2014**
-Instructor: Miriah Meyer
-[http://www.sci.utah.edu/~miriah/cs6630/](http://www.sci.utah.edu/~miriah/cs6630/)
-{% endcomment %}

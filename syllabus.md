@@ -9,8 +9,11 @@ order: 2
  <div class="deadline">The information here is subject to change! </div>
 
 
-Welcome to CS 5963 / Math 3900! This course is an introduction to data analysis. The major goals of this course are to learn how to use tools for acquiring, cleaning, analyzing, exploring, and visualizing data; making data-driven inferences and decisions; and effectively communicating results. These will be accomplished through an in-depth sequence of topics which will introduce students to the following data analysis methods:
+Welcome to CS 5963 / Math 3900! This course is an introduction to data science. The major goals of this course are to learn how to use tools for acquiring, cleaning, analyzing, exploring, and visualizing data; making data-driven inferences and decisions; and effectively communicating results. These will be accomplished through an in-depth sequence of topics which will introduce students to the following data preparation and analysis methods:
 
+* Acquiring data through web-scraping and data APIs
+* Cleaning and reshaping messy datasets using methods such as regular expressions or dedicated tools such as open refine
+* Exploratory data analysis and visualization
 * Rating and ranking
 * Clustering and classification
 * Recommendation 
