@@ -25,11 +25,13 @@ real-life, project-based, lectures and computer labs. The goal of this course is
 
 A more comprehensive description of the course material, including a list of projects, can be found in the [syllabus]({{site.baseurl}}/syllabus/). 
 
-This course is offered in the Fall 2016 semester at the University of Utah, cross-listed between Math (MATH 3900) and CS (CS 5963). 
+This course is offered in the Fall 2016 semester at the University of Utah, cross-listed between Mathematics (MATH 3900) and Computer Science (CS 5963). 
 
 ### Is this course for me? 
 
-This course is **designed for both undergraduates and graduates that major in various fields**. So, if you are a student in, for example, Biology, Chemistry, Social Sciences, Psychology, Business, etc., and want to learn some computational and quantitative skills to be successful in your field as it transforms in an age increasingly dominated by data and computation, this course might be for you! 
+This course is **designed for both undergraduates and graduates from various fields**. 
+So, if you are a student in, for example, Biology, Chemistry, Social Sciences, Psychology, Business, etc., and want to learn some computational and quantitative skills to be successful in your field as it transforms in an age increasingly dominated by data and computation, this course might be for you! 
+
 
 This is an introductory course: **we will introduce both programming concepts and the necessary statistics**, yet we do expect you to have at least a little background in programming and math. If you don't know what a for-loop or a function is, for example, you first might want to take a course like [CS 1060](http://www.sci.utah.edu/~beiwang/teaching/cs1060.html).  
 

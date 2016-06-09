@@ -51,6 +51,7 @@ O'Reilly Media (2015)
 
 *Data science libraries, frameworks, modules, and toolkits are great for doing data science, but they’re also a good way to dive into the discipline without actually understanding data science. In this book, you’ll learn how many of the most fundamental data science tools and algorithms work by implementing them from scratch.*  
 [Read for free on Campus](http://proquest.safaribooksonline.com/9781491901410) 
+[Code](https://github.com/joelgrus/data-science-from-scratch)
 
 
 ![]({{ site.baseurl }}/assets/i/dds.jpg)
