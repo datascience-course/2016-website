@@ -15,8 +15,7 @@ order: 1
 The amount and complexity of information produced in science, engineering, business, and everyday human activity are increasing at a staggering rate. **The goal of this course is to expose you to methods and techniques for analyzing and understanding complex data.** Data Science lies at the intersection of statistics, computer science, and, of course, the domain from which the data comes from. This course will provide an introduction to the former two: statistics and computer science and provide you with a toolset to conquer problems in your domain! 
 
  
-The course begins by **bootstrapping your coding skills** (we will be using Python), and will move through a series of data science methods via 
-real-life, project-based, lectures and computer labs. The goal of this course is to develop your skills in: 
+The course begins by **bootstrapping your coding skills** (we will be using Python), and will move through a series of data science methods via real-life, project-based, lectures and computer labs. The goal of this course is to develop your skills in: 
  
   * **data wrangling**: how to acquire, clean, reshape or sample data so that it's ready for further processing?
   * **data exploration**: how to analyze the signal in a large, noisy dataset?
