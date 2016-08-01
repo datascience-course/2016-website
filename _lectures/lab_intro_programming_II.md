@@ -1,7 +1,7 @@
 ---
 key: lab_intro_programming_II
-topic: Working with tabular data
-description: Loading data, data frames, NumPy, SciPy  
+topic: Introduction to Programming in Python II
+description: Data types and operators, conditions, lists, loops.
 mandatory-reading: |
 recommended-reading: |
 slides: 

@@ -1,7 +1,7 @@
 ---
 key: lab_intro_programming
-topic: Programming in Python
-description: Running a Python program, IPython, Jupyter notebook. Programming exercise.  
+topic: Introduction to Programming in Python
+description: Running a Python program, IPython, Jupyter notebook, variables and data types, operations, functions, scope.
 mandatory-reading: |
 recommended-reading: |
 slides: 
