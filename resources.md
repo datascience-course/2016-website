@@ -12,6 +12,8 @@ menu: Resources
 ### Highly Recommended Tutorials
 [Learn Python the Hard Way](http://learnpythonthehardway.org/)  
 [Code Academy](https://www.codecademy.com/learn/python)  
+[Python Cheat Sheet](https://drive.google.com/open?id=0ByIrJAE4KMTtWGZmQXBPai1NQWM)
+[Pandas Cheat Sheet](https://drive.google.com/open?id=0ByIrJAE4KMTtTUtiVExiUGVkRkE)
 
 ### Official Documentation / Resources
 [Python](http://python.org/)  
