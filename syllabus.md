@@ -23,22 +23,11 @@ Welcome to CS 5963 / Math 3900! This course is an introduction to data science. 
 
 A major component of this course will be learning how to use python-based programming tools to apply these methods to real-life datasets.
 
-{% comment %}
-**After successful completion of this course, you will be able to...**
-
- * Critically evaluate visualizations and suggest improvements and refinements
- * Apply a structured design process to create effective visualizations
- * Conceptualize ideas and interaction techniques using sketching 
- * Use principles of human perception and cognition in visualization design
- * Create web-based interactive visualizations using HTML 5,  JavaScript and D3
-{% endcomment %}
-
 ## Course Logistics
 
 ### Prerequisites
 
-Students are expected to have some programming experience and have at least taken Calculus I (UU Math 1170, 1210, 1250 1310, 1311 or equivalent). If in doubt, ask one of the instructors. 
-
+Students are expected to have some programming experience and have at least taken Calculus I (UU Math 1170, 1210, 1250 1310, 1311 or equivalent). If in doubt, ask one of the instructors.  **You should also own a notebook computer that you can bring to class.**
 
 ### Textbooks
 
@@ -80,63 +69,13 @@ Jiawei Han, Micheline Kamber, and Jian Pei
 *Data Mining: Concepts and Techniques provides the concepts and techniques in processing gathered data or information, which will be used in various applications. Specifically, it explains data mining and the tools used in discovering knowledge from the collected data. This book is referred as the knowledge discovery from data (KDD). It focuses on the feasibility, usefulness, effectiveness, and scalability of techniques of large data sets.*
 
 
-
-{% comment %}
-[Visualization Analysis and Design](http://www.amazon.com/Visualization-Analysis-Design-Peters-Series/dp/1466508914), Tamara Munzner, CRC Press (2014) - VAD
-![]({{ site.baseurl }}/assets/i/visualization_analysis.jpg)
-
-*“Visualization Analysis and Design provides a systematic, comprehensive framework for thinking about visualization in terms of principles and design choices. The book features a unified approach encompassing information visualization techniques for abstract data, scientific visualization techniques for spatial data, and visual analytics techniques for interweaving data transformation and analysis with interactive visual exploration. It emphasizes the careful validation of effectiveness and the consideration of function before form.”*
-
-<br />
-[Interactive Data Visualization for the Web](http://www.amazon.com/Interactive-Data-Visualization-Scott-Murray-ebook/dp/B00BSG68UQ), Scott Murray, O'Reilly (2013) - D3
-*[Free online version](http://chimera.labs.oreilly.com/books/1230000000345)*
-
-![]({{ site.baseurl }}/assets/i/interactive_data_visualization.jpg)
-*An introduction to D3 for people new to programming and web development, published by O’Reilly. “Explaining tricky technical topics with aplomb (and a little cheeky humor) is Scott Murray’s forte. If you want to dive into the world of dynamic visualization using web standards, even if you are new to programming, this book is the place to start.” - Mike Bostock, creator of D3*
-<br />
-<br />
-
-### Recommended Textbooks
-
-These recommended textbooks will allow you to deepen your understanding of specific aspects of the course, such as perception and storytelling.
-
-
-[Design for Information](http://www.amazon.com/Design-Information-Isabel-Meirelles/dp/1592538061), Isabel Meirelles, Rockport (2013)
-
-![]({{ site.baseurl }}/assets/i/design_for_information.jpg)
-*“The visualization process doesn’t happen in a vacuum; it is grounded in principles and methodologies of design, cognition, perception, and human-computer-interaction that are combined to one’s personal knowledge and creative experiences. Design for Information critically examines other design solutions —current and historic— helping you gain a larger understanding of how to solve specific problems. This book is designed to help you foster the development of a repertoire of existing methods and concepts to help you overcome design problems.”*
-
-
-
-[Visual Thinking for Design](http://www.amazon.com/Visual-Thinking-Kaufmann-Interactive-Technologies/dp/0123708966),  Colin Ware, Morgan Kaufman (2008)
-
-![]({{ site.baseurl }}/assets/i/visual_thinking.jpg)
-*“All the clanking gears are here: variable resolution image detection, eye movements, environmental information statistics, bottom-up/top-down control structures, working memory, the nexus of meaning, and specialized brain areas and pathways. By the time he’s done, Ware has reconstructed cognitive psychology, perception, information visualization, and design into an integrated modern form. This book is scary good.” - Stuart Card, Senior Research Fellow, and manager of the User Interface Research group at the Palo Alto Research Center*
-
-<br />
-
-[The Functional Art: An introduction to information graphics and visualization](http://www.amazon.com/The-Functional-Art-introduction-visualization/dp/0321834739/), Alberto Cairo, New Riders (2012)
-
-![]({{ site.baseurl }}/assets/i/functional_art.png)
-*“If graphic designer Nigel Holmes and data visualizer Edward Tufte had a child, his name would be Alberto Cairo. In The Functional Art, accomplished graphics journalist Cairo injects the chaotic world of infographics with a mature, thoughtful, and scientifically grounded perspective that it sorely needs. With extraordinary grace and clarity, Cairo seamlessly unites infographic form and function in a design philosophy that should endure for generations.” - Stephen Few, author of Show Me the Numbers*
-
-{% endcomment %}
-
 ## Course Components
 
 ### Lectures
 The class meets twice a week for lectures and joint class activities. The class activities are designed to help you master the relevant materials, to work on your homework in groups, and to get you started on your project. The weekly schedule of lectures is posted on the course web site.
 
-### Computer Labs 
-Lectures are supplemented a weekly computer lab. Labs are an important aspect of the course, as they are meant to give you the technical skills to successfully complete the homework assignments and projects, complementing the theoretical knowledge taught in lectures. Sections will typically consist of a short presentation and live coding of an instructor or teaching assistant, followed by time to complete some exercises with the help of the instructor and teaching assistants. Sections will also give you the opportunity to seek help on homeworks and your project. Computer lab topics are announced in the schedule. 
-
-<!--### Sections
-Lectures are supplemented by 60- to 90-minute sections led by the teaching fellows. Sections are limited to about 20 students (the numbers may vary due to enrollment); one of the sections will be recorded and made available to online students. Sections are an important aspect of the course, as they are meant to give you the technical skills to successfully complete the homework assignments and projects, complementing the theoretical knowledge taught in lectures. Sections will typically consist of a short presentation and live coding of a teaching fellow, followed by time to complete some exercises with the support of the present teaching fellows. Sections will also give you the opportunity to work on your homework and your projects while TFs are present to answer your questions. Section topics are announced in the schedule. A transcript of the section will be published on this website. -->
-
-<!-- 
-### Design Studios
-Held during lecture times, in design studios are you will hone your skills in designing visualizations using sketching and rapid, paper-based prototyping. Attendance for design studios is mandatory for on-campus students. You work on analyzing a dataset and create multiple sketches of visualizations to address the dataset either alone or in teams, depending on the task. Online-only participants are encouraged to work in online-teams but are allowed to work individually. Some design studios will require you to critique each others work. The design studios are part of the homework and are submitted and graded together with these.
--->
+###  Labs
+Labs are an important aspect of the course, as they are meant to give you the technical skills to successfully complete the homework assignments and projects, complementing the theoretical knowledge taught in lectures. Sections will typically consist of a short presentation and live coding, followed by time to complete some exercises with the help of the instructors. Lab topics and times are announced in the schedule. **You are expected to bring your own computer with the neccesary software installed to all labs.**
 
 ### Reading Assignments
 The course schedule includes required weekly readings – you are free to study ahead, but the schedule ensures that you are prepared for the activities in class and the homework. The goal of the reading assignments is to familiarize yourself with new terminology and definitions, to learn new design and programming skills, and to determine which part of the subject needs more attention. The homework assignments will contain questions about the mandatory readings. When answering these, please be brief and to the point!
@@ -145,9 +84,8 @@ The course schedule includes required weekly readings – you are free to study 
 Neither mathematics or computer science are spectator sports; mastery of either subject requires a significant amount of practice! Homework assignments provide an opportunity to practice your programming skills, think about analytical concepts in a new way, and to test your understanding of the material. The homework assignments are also designed to prepare you for your course project. You should view the homework as an opportunity to learn, and not to “earn points”. The homework will be graded holistically to reflect this objective. Homework will be submitted through Canvas. 
 
 ### Course Project
-At the core of this course is a course project. The goal of the project is to analyze a topic of your choosing and write a paper summarizing your findings. You will acquire and clean the data, use tools from the class to explore, describe, and analyze the data, and evalute the results to make a predictions. The path to a good project will involve mistakes and wrong turns. It is therefore important to recognize that mistakes are valuable in finding the path to a solution, but will require a significant ammount of time. **It is therefore imperative that you begin your project early!** The project has an intermediate milestone that will allow you to get feedback and to iterate. 
-
-In your project you will work closely with classmates in 2-3 person project teams. You can come up with your own teams and use Canvas to find prospective team members. If you cannot find a partner we will team you up randomly. 
+At the core of this course is a course project. The goal of the project is to analyze a topic of your choosing and document your findings. You will acquire and clean the data, use tools from the class to explore, describe, and analyze the data, and evaluate the results to make a predictions. The path to a good project will involve mistakes and wrong turns. It is therefore important to recognize that mistakes are valuable in finding the path to a solution, but will require a significant amount of time. **It is therefore imperative that you begin your project early!** The project has an intermediate milestone that will allow you to get feedback and to iterate.
+In your project you will work closely with classmates in 2-3 person project teams.  You can find more information on the [project page]({{site.baseurl}}/project/).
 
 
 ## Course Policies
@@ -201,15 +139,15 @@ In the professional world, three important features affect your productivity and
 Your teammates’ assessment of your contributions and the accuracy of your self-assessment will be considered as part of your overall course evaluation.
 
 ### Collaboration Policy
-You are welcome (and encouraged!) to discuss the course's ideas, material, and homework with others in order to better understand it, but **the work you turn in must be your own** (or for the project, yours and your teammate’s). For example, you must write your own code, design your own visualizations, and critically evaluate the results in your own words. You may not submit the same or similar work to this course that you have submitted or will submit to another. Nor may you provide or make available solutions to homeworks to individuals who take or may take this course in the future. 
+You are welcome (and encouraged!) to discuss the course's ideas, material, and homework with others in order to better understand it, but **the work you turn in must be your own** (or for the project, yours and your teammate’s). For example, you must write your own code, and critically evaluate the results in your own words. You may not submit the same or similar work to this course that you have submitted or will submit to another. Nor may you provide or make available solutions to homeworks to individuals who take or may take this course in the future.
 
 ### Quoting Sources 
-You must acknowledge any source code that was not written by you by mentioning the original author(s) directly in your source code (comment or header). You can also acknowledge sources in a README.txt file if you used whole classes or libraries. Do not remove any original copyright notices and headers. However, you are encouraged to use libraries, unless explicitly stated otherwise! 
+You must acknowledge any source code that was not written by you by mentioning the original author(s) directly in your source code (comment or header) and include a link to the source. However, you are encouraged to use libraries, unless explicitly stated otherwise!
 
-You may use examples you find on the web as a starting point, provided its license allows you to re-use it. You must quote the source using  proper citations (author, year, title, time accessed, URL) both in the source code and in any publicly visible material. You may not use existing complex combinations or large examples. For example, you may not use a ready to use multiple linked view visualization. You may use parts out of such examples. 
+You may use examples you find on the web as a starting point, provided its license allows you to re-use it. You must quote the source using  proper citations (author, year, title, time accessed, URL) both in the source code and in any publicly visible material. You may not use existing complex combinations or large examples.
 
 ### Missed Activities and Assignment Deadlines 
-Projects and homework must be turned in on time, with the exception of late days for homework as stated below. Because of the emphasis on teamwork, it is important that everybody attends and proactively participates in class and online. Due to the collaborative nature of the activities, it is not possible to make up any missed team activities, such as project work or design studios. (The same, incidentally, is true in the professional world.) We understand, however, that certain factors may occasionally interfere with your ability to participate or to hand in work on time. If that factor is an extenuating circumstance, we will ask you to provide documentation directly issued by the University, and we will try to work out an agreeable solution with you (and your team). 
+Projects and homework must be turned in on time, with the exception of late days for homework as stated below. Because of the emphasis on teamwork, it is important that everybody attends and proactively participates in class. Due to the collaborative nature of the activities, it is not possible to make up any missed team activities, such as project work. We understand, however, that certain factors may occasionally interfere with your ability to participate or to hand in work on time. If that factor is an extenuating circumstance, we will ask you to provide documentation directly issued by the University, and we will try to work out an agreeable solution with you (and your team).
 
 ### Late Policy
 You can turn in your assignment up to two days late, however, for each day that an assignment is turned in late we will deduct 10% from the total possible points. That is, one-day late is 10% off and two-days is 20% off. So if your assignment is two day late, the max number of points (out of 10) that you can receive is 8. By permission of the instructor in extenuating circumstances, you may use more that two late days, however, the 10% rule per day will still apply. If you have a verifiable medical condition or other special circumstances that interfere with your coursework please let us know as soon as possible.  
@@ -224,11 +162,8 @@ If you have a documented disability (physical or cognitive) that may impair your
 
 ### Credits
 
-{% comment %}
-This class is based on the classes taught by **Hanspeter Pfister** at Harvard and **Miriah Meyer** at the University of Utah and draws on the book by **Tamara Munzner** at the University of British Columbia. Some of the material in this course is based on the classes taught by **Carlos Scheidegger** at the University of Arizona,  **Marc Streit** at JKU Linz, **Pat Hanrahan** at Stanford, **Jeff Heer** at the University of Washington, **Hans-Joerg Schulz** at the University of Rostock, **Nils Gehlenborg** at the Harvard Medical School, **Torsten Möller** at the University of Vienna, **Hewlig Hauser** at the University of Bergen, and **Maneesh Agrawala** and UC Berkeley. We have heavily drawn on materials and examples found online and tried our best to give credit by linking to the original source. You can find these credits mainly by direct links to the sources from the images. Please contact us if you find materials where the credit is missing or that you would rather have removed.
+This class occasionally uses material developed for Harvard's [CS 109](http://cs109.github.io), taught by Hanspeter Pfister, Joe Blitzstein, Rhaul Dave, and Verena Kayning. We have  drawn on materials and examples found online and tried our best to give credit by linking to the original source. You can find these credits mainly by direct links to the sources from the slides (e.g., hyperlinked from images). Please contact us if you find materials where the credit is missing or that you would rather have removed.
 
 ### User Notice for Copyrighted Materials on Course Websites
-This course website, and much of the text, images, graphics, audio and video clips, and other content of the site (collectively, the “Content”), are protected by copyright law. In some cases, the copyright is owned by third parties, and we are making the third-party content available to you under the fair use doctrine. Fair use permits only certain limited uses of the Content.
-You may use the website and its Content only for your personal, noncommercial educational and scholarly use. Some Content may be provided via streaming or other means that restrict copying; you may not circumvent those restrictions. If you wish to distribute or make any of the Content available to others, or to use any Content commercially, or to use any Content for any purpose other than your personal, noncommercial educational and scholarly use, you must obtain any required permission from the copyright holder. User notice courtesy of the Harvard University Office of General Counsel.
-
-{% endcomment %}
+This course website, and all original content provided as part of this course is licensed under the [creative commons cc by license](https://creativecommons.org/licenses/by/4.0). Other content such as text, images, graphics, audio and video clips, (collectively, the “Content”), are protected by copyright law. In some cases, the copyright is owned by third parties, and we are making the third-party content available to you under the fair use doctrine. Fair use permits only certain limited uses of the Content.
+You may use this Content only for your personal, noncommercial educational and scholarly use.
