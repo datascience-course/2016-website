@@ -1,7 +1,7 @@
 ---
 key: hypothesis_testing
-topic: Introduction to Hypothesis Testing
-description: Binomial distribution, coin flipping, A/B Testing. 
+topic: Hypothesis Testing and Inference
+description: Binomial distribution, Coin flipping, A/B Testing. 
 mandatory-reading: |
  - Grus, Ch.7
 recommended-reading: |
