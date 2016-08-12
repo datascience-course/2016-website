@@ -43,6 +43,7 @@ O'Reilly Media (2015)
 [Code](https://github.com/joelgrus/data-science-from-scratch)
 
 
+
 ![]({{ site.baseurl }}/assets/i/dds.jpg)
 **[Doing Data Science: Straight Talk from the Frontline](http://www.amazon.com/Doing-Data-Science-Straight-Frontline/dp/1449358659)**  
 Cathy O'Neil, Rachel Schutt   
@@ -52,6 +53,16 @@ O'Reilly Media (2013)
 [Blog that was the basis for this book](https://columbiadatascience.com/doing-data-science/)
 <br /><br />
 
+![]({{ site.baseurl }}/assets/i/pandas.jpg)
+**[Learning the Pandas Library: Python Tools for Data Munging, Analysis, and Visualization](https://www.amazon.com/Learning-Pandas-Library-Analysis-Visualization-ebook/dp/B01GIE03GW/)**  
+Matt Harrison  
+CreateSpace Independent Publishing Platform (2016)  
+
+ *Python is one of the top 3 tools that Data Scientists use. One of the tools in their arsenal is the Pandas library. This tool is popular because it gives you so much functionality out of the box. In addition, you can use all the power of Python to make the hard stuff easy!
+ Learning the Pandas Library is designed to bring developers and aspiring data scientists who are anxious to learn Pandas up to speed quickly. It starts with the fundamentals of the data structures. Then, it covers the essential functionality. It includes many examples, graphics, code samples, and plots from real world examples.*
+
+<br />
+
 ![]({{ site.baseurl }}/assets/i/momd.jpg)
 **[Mining of Massive Datasets](http://www.amazon.com/Mining-Massive-Datasets-Jure-Leskovec/dp/1107077230)**  
  Jure Leskovec, Anand Rajaraman, and Jeffrey David Ullman   
@@ -60,6 +71,8 @@ O'Reilly Media (2013)
 *The book is based on Stanford Computer Science course CS246: Mining Massive Datasets (and CS345A: Data Mining).*  
 *The book, like the course, is designed at the undergraduate computer science level with no formal prerequisites. To support deeper explorations, most of the chapters are supplemented with further reading references.*  
 [Download from book website](http://www.mmds.org/)
+
+<br />
 
 ![]({{ site.baseurl }}/assets/i/dmct.jpg)
 **[Data Mining: Concepts and Techniques](http://www.amazon.com/Data-Mining-Concepts-Techniques-Management/dp/0123814790)**  
