@@ -1,9 +1,8 @@
 ---
-key: hypothesis_testing
+key: lab_temp_analysis
 topic: Temporal data analysis and applications to stock analysis
 description: downloading, cleaning, analyzing, and visualizing stock data 
 mandatory-reading: |
- - Grus, Ch.7
 recommended-reading: |
 slides: 
 interactive-content:
