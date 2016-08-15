@@ -112,22 +112,21 @@ Read [more on the issue by Clay Shirky](https://medium.com/@cshirky/why-i-just-a
 ### Assessment Procedure
 Your final grade will be determined by the number of points you collect. You can collect various amounts of points for the different parts of the class:
 
-* Homework: 60%, assessed on your individual submission.  The homework assignments are weighted based on difficulty and length (A two week homework counts more than a one week homework).
+ * Homework: 60%, assessed on your individual submission.  The homework assignments are weighted based on difficulty and length (A two week homework counts more than a one week homework).
  * Project: 40%, assessed on meeting the project criteria and your peer assessment. The 40% is split between the two milestones. 10% are assigned to your first milestone, 30% to your final submission.
- * 
-We will evaluate your work holistically beyond mechanical correctness and focus on the overall quality of the work using the following scale (in 0.5 increments):
+ * We will evaluate your work holistically beyond mechanical correctness and focus on the overall quality of the work using the following scale (in 0.5 increments):
 
-10 = Excellent / no mistakes (or really minor)
-9
-8  = Good / some mistakes
-7 
-6
-5 = Fair / some major conceptual errors
-4
-3
-2 = Poor / did not finish
-1 
-0 = Did not participate / did not hand in
+10 = Excellent / no mistakes (or really minor)  
+9  
+8  = Good / some mistakes  
+7   
+6  
+5 = Fair / some major conceptual errors  
+4  
+3  
+2 = Poor / did not finish  
+1   
+0 = Did not participate / did not hand in  
 
 A weighted overall average of 10 constitutes a perfect grade and is equivalent to an A. Here are tentative grade ranges for you reference. Note that these might be adjusted.  
 

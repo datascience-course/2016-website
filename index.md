@@ -24,7 +24,7 @@ The course begins by **bootstrapping your coding skills** (we will be using Pyth
 
 A more comprehensive description of the course material, including a list of projects, can be found in the [syllabus]({{site.baseurl}}/syllabus/). 
 
-This course is offered in the Fall 2016 semester at the University of Utah, cross-listed between Mathematics (MATH 3900) and Computer Science (CS 5963). 
+This **three-credit course** is offered in the Fall 2016 semester at the University of Utah, cross-listed between Mathematics (MATH 3900) and Computer Science (CS 5963). 
 
 ### Is this course for me? 
 
