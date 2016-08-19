@@ -8,7 +8,7 @@ order: 4
 
 Homework assignments are due on Fridays, 11:59 pm ET. **For due dates see the [schedule]({{ site.baseurl }}/schedule/).** For more details see the syllabus.
 
-**The assignments are published on [GitHub](https://github.com/dataviscourse/2016-datascience-homeworks).**
+**The assignments are published on [GitHub](https://github.com/datascience-course/2016-datascience-homeworks).**
 
 
 ## Submission Instructions
