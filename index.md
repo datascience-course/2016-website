@@ -59,6 +59,7 @@ Office: LCB 116
 ### Teaching Assistants
 
 Magalena Schwarzl
+Olivia Dennis 
 
 ### Logistics
 
