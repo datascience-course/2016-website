@@ -69,8 +69,9 @@ The class meets Monday, Wednesday, Friday, 03:05 PM-03:55 PM, in [WEB L114](http
 
 **Office Hours:** 
 TA office hours: Thursdays 3:30-5:30pm, WEB 2470 (beginning Sept. 1)
+Lex office hours: Thursdays, 3:30 - 4:30pm, WEB 3887
 Osting office hours: Wednesdays 4-5:30pm, LCB 116 
-Lex office hours: Thursdays, 3:30 - 4:30, WEB 3887
+
 
 **Online discussion, grades, etc:** We use [Canvas](https://utah.instructure.com/courses/389967) for discussions and questions. 
 
