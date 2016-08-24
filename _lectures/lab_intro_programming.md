@@ -5,7 +5,7 @@ description: Running a Python program, IPython, Jupyter notebook, variables and 
 mandatory-reading: |
 recommended-reading: |
 slides: 
-interactive-content:
+interactive-content: https://github.com/datascience-course/2016-datascience-labs/tree/master/lab1-basic-python
 guest:
 guest-url:
 type: lab
