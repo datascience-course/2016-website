@@ -1,7 +1,7 @@
 ---
 key: descriptive_stats
 topic: Introduction to Descriptive Statistics
-description: Variable types; basic summary statistics: mean, median, quantiles, max, min; basic plotting; covariance and correlation; and confounders.
+description: Variable types, basic summary statistics and plotting, covariance and correlation, and confounders.
 mandatory-reading: |
  - Grus, Ch.5
 recommended-reading: |
