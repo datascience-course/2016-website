@@ -5,7 +5,7 @@ description: Variable types; mean, median, max, min, histograms, quantiles, cova
 mandatory-reading: |
  - Grus, Ch.5
 recommended-reading: |
-slides: 
+slides: 02-descriptive-stats.pdf
 interactive-content:
 guest:
 guest-url:
