@@ -64,8 +64,8 @@ Magalena Schwarzl and Olivia Dennis
 
 The class meets Monday, Wednesday, Friday, 03:05 PM-03:55 PM, in [WEB L114](https://www.google.at/maps/place/Warnock+Engineering+Bldg,+Salt+Lake+City,+UT+84112,+USA/@40.767762,-111.845201,17z/data=!3m1!4b1!4m2!3m1!1s0x87525f8e1c8db121:0x9dd5415ccbe24f0b?hl=en). 
 
-**Lectures** are held Monday and Wednesday and introduce the theoretical concepts.   
-**Labs** are held (mostly) on Fridays and revisit the concepts introduced in lectures in practical terms. We will typically run coding exercises in the lab. Please bring your laptop computer!   
+**Lectures** are used to introduce theoretical concepts.   
+**Labs** revisit the concepts introduced in lectures in practical terms. We will typically run coding exercises in the lab. Please bring your laptop computer!   
 
 **Office Hours:** 
 TA office hours: Thursdays 3:30-5:30pm, WEB 2470 (beginning Sept. 1)
