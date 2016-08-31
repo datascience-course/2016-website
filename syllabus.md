@@ -81,6 +81,17 @@ Jiawei Han, Micheline Kamber, and Jian Pei
 
 *Data Mining: Concepts and Techniques provides the concepts and techniques in processing gathered data or information, which will be used in various applications. Specifically, it explains data mining and the tools used in discovering knowledge from the collected data. This book is referred as the knowledge discovery from data (KDD). It focuses on the feasibility, usefulness, effectiveness, and scalability of techniques of large data sets.*
 
+<br />
+
+![]({{ site.baseurl }}/assets/i/isl.jpg)
+**[An Introduction to Statistical Learning](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)**  
+Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani  
+Springer Texts in Statistics (2015)   
+
+*This book provides an introduction to statistical learning methods. It is aimed for upper level undergraduate students, masters students and Ph.D. students in the non-mathematical sciences. The book also contains a number of R labs with detailed explanations on how to implement the various methods in real life settings, and should be a valuable resource for a practicing data scientist.*  
+[Read for free](http://www-bcf.usc.edu/~gareth/ISL/) 
+
+
 
 ## Course Components
 
