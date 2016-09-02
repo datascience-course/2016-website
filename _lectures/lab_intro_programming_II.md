@@ -5,7 +5,8 @@ description: Data types and operators, conditions, lists, loops.
 mandatory-reading: |
 recommended-reading: |
 slides: 
-interactive-content: [github link](https://github.com/datascience-course/2016-datascience-labs)
+interactive-content: | 
+ -  [Lab repo on GitHub](https://github.com/datascience-course/2016-datascience-labs)
 guest:
 guest-url:
 type: lab
