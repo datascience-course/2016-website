@@ -8,7 +8,7 @@ slides:
 interactive-content:
 guest: Curtis Miller
 guest-url: https://www.math.utah.edu/people/info/wrapper.php?cmiller
-
+type: lab
 ---
 
 
