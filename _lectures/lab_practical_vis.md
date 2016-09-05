@@ -1,9 +1,10 @@
 ---
 key: lab_practical_vis
-topic: Practical visualization 
-description: 
+topic: Practical Visualization 
+description: Visualization in Python using ggplot
 mandatory-reading: |
 recommended-reading: |
+ - [ggplot python website](http://yhat.github.io/ggplot/)
 slides: 
 interactive-content:
 guest: Shirley Zhao

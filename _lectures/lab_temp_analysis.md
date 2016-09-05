@@ -1,7 +1,7 @@
 ---
 key: lab_temp_analysis
-topic: Temporal data analysis and applications to stock analysis
-description: downloading, cleaning, analyzing, and visualizing stock data 
+topic: Temporal Data Analysis and Applications to Stock Analysis
+description: Downloading, cleaning, analyzing, and visualizing stock data 
 mandatory-reading: |
 recommended-reading: |
 slides: 

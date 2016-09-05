@@ -1,9 +1,9 @@
 ---
-key: regression_2
-topic: Linear Regression 2
+key: neural_networks
+topic: Neural Networks
 description:
-mandatory-reading: |
- - Grus, Ch. 15
+mandatory-reading:  |
+ - Grus, Ch.18
 recommended-reading: | 
 slides: 
 interactive-content:
