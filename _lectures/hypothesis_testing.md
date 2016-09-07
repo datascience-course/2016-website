@@ -1,5 +1,5 @@
 ---
-key: hypothesis_testing
+key: hypothesis_testing_1
 topic: Hypothesis Testing and Inference
 description: Binomial distribution, Coin flipping, A/B Testing. 
 mandatory-reading: |
