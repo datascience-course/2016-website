@@ -3,8 +3,8 @@ key: regression_2
 topic: Linear Regression 2
 description:
 mandatory-reading: |
- - Grus, Ch. 15
 recommended-reading: | 
+ - ISLR, Ch. 3
 slides: 
 interactive-content:
 guest:
