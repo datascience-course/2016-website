@@ -1,7 +1,7 @@
 ---
 key: regression_1
 topic: Linear Regression 1
-description:
+description: Introduction to ordinary linear regression 
 mandatory-reading:  |
 recommended-reading:  |
  - ISLR, Ch. 3
