@@ -1,6 +1,6 @@
 ---
 key: knearest
-topic: Classification II, K-nearest Neighbors
+topic: Classification II, K-Nearest Neighbors
 description: Overfitting, bias-variance
 mandatory-reading: | 
 recommended-reading: | 
