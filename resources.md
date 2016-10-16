@@ -43,13 +43,12 @@ menu: Resources
 
 ## Data Sources
 
-[Wolfram Alpha](http://www.wolframalpha.com/)  
-[Quandl](http://www.quandl.com)  
-[Datamob](http://datamob.org/datasets)  
-[Factual](http://www.factual.com/)  
-[Metro Boston Data Common](http://metrobostondatacommon.org/)  
-[Census.gov](http://www.census.gov/)  
 [Data.gov](http://www.data.gov/)  
+[Utah Data](http://www.utah.gov/data/)
+[Census.gov](http://www.census.gov/)  
+[U.S. Bureau of Economic Analysis](http://www.bea.gov/index.htm)
+[Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/)
+[UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 [Dataverse Network](http://thedata.org/)  
 [Infochimps](http://infochimps.com/)  
 [Linked Data](http://linkeddata.org/)  
@@ -63,8 +62,9 @@ menu: Resources
 [Free SVG Maps](http://www.d-maps.com/index.php?lang=en)  
 [UK Office for National Statistics](http://www.statistics.gov.uk/default.asp)  
 [StateMaster](http://www.statemaster.com/index.php)  
-
-
-
-
+[Wolfram Alpha](http://www.wolframalpha.com/)  
+[Quandl](http://www.quandl.com)  
+[Datamob](http://datamob.org/datasets)  
+[Factual](http://www.factual.com/)  
+[Metro Boston Data Common](http://metrobostondatacommon.org/)  
 

@@ -3,8 +3,8 @@ key: neural_networks
 topic: Neural Networks
 description:
 mandatory-reading:  |
- - Grus, Ch.18
 recommended-reading: | 
+ - Grus, Ch.18
 slides: 
 interactive-content:
 guest:

@@ -1,7 +1,7 @@
 ---
 key: lab_regression
 topic: Regression in Practice
-description:
+description: Example: regression of a credit card dataset
 mandatory-reading: |
 recommended-reading: |
 slides: 

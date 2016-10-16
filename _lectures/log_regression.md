@@ -1,10 +1,11 @@
 ---
 key: log_regression
-topic: Logistic Regression
-description:
+topic: Classification I, Logistic Regression
+description: Introduction to classification and the logistic regression method 
 mandatory-reading:  |
- - Grus Ch. 16
 recommended-reading:  |
+ - Grus Ch. 16
+ - ISLR Ch. 4
 slides: 
 interactive-content:
 guest:
