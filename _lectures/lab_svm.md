@@ -1,6 +1,6 @@
 ---
 key: lab_svm
-topic: Support Vector Machines in Practice
+topic: Classification Methods in Practice
 description: 
 mandatory-reading: |
 recommended-reading: |
