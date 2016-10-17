@@ -6,8 +6,8 @@ mandatory-reading: |
 recommended-reading: | 
 slides: 
 interactive-content:
-guest:
-guest-url:
+guest: Vivek Srikumar
+guest-url: http://svivek.com/
 ---
 
 

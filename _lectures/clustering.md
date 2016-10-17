@@ -1,7 +1,7 @@
 ---
 key: clustering
 topic: Clustering
-description: Clustering Basics. Partitonal and Hierarchical Clustering Approaches.
+description: Clustering Basics. Partitional and Hierarchical Clustering Approaches. Two part lecture.
 mandatory-reading: | 
  - Grus, Ch. 19
 recommended-reading: | 
