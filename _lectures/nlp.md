@@ -7,7 +7,7 @@ recommended-reading: |
 slides: 
 interactive-content:
 guest: Vivek Srikumar
-guest-url: http://svivek.com/
+guest-url: http://svivek.com/d
 ---
 
 
