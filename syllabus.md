@@ -124,7 +124,7 @@ Read [more on the issue by Clay Shirky](https://medium.com/@cshirky/why-i-just-a
 Your final grade will be determined by the number of points you collect. You can collect various amounts of points for the different parts of the class:
 
  * Homework: 60%, assessed on your individual submission.  The homework assignments are weighted based on difficulty and length (A two week homework counts more than a one week homework).
- * Project: 40%, assessed on meeting the project criteria and your peer assessment. The 40% is split between the two milestones. 10% are assigned to your first milestone, 30% to your final submission.
+ * Project: 40%, assessed on meeting the project criteria and your peer assessment. The 40% is split between the two milestones and the proposal. 5% are assigned to the proposal, 10% are assigned to your first milestone, 30% to your final submission.
  * We will evaluate your work holistically beyond mechanical correctness and focus on the overall quality of the work using the following scale (in 0.5 increments):
 
 10 = Excellent / no mistakes (or really minor)  
