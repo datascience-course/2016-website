@@ -124,31 +124,31 @@ Read [more on the issue by Clay Shirky](https://medium.com/@cshirky/why-i-just-a
 Your final grade will be determined by the number of points you collect. You can collect various amounts of points for the different parts of the class:
 
  * Homework: 60%, assessed on your individual submission.  The homework assignments are weighted based on difficulty and length (A two week homework counts more than a one week homework).
- * Project: 40%, assessed on meeting the project criteria and your peer assessment. The 40% is split between the two milestones and the proposal. 5% are assigned to the proposal, 10% are assigned to your first milestone, 30% to your final submission.
- * We will evaluate your work holistically beyond mechanical correctness and focus on the overall quality of the work using the following scale (in 0.5 increments):
+ * Project: 40%, assessed on meeting the project criteria and your peer assessment. The 40% is split between the two milestones and the proposal. 5% are assigned to the proposal, 10% are assigned to your first milestone, 25% to your final submission.
+ * We will evaluate your work holistically beyond mechanical correctness and focus on the overall quality of the work using the following scale:
 
-10 = Excellent / no mistakes (or really minor)  
-9  
-8  = Good / some mistakes  
-7   
-6  
-5 = Fair / some major conceptual errors  
-4  
-3  
-2 = Poor / did not finish  
-1   
+100 = Excellent / no mistakes (or really minor)  
+90  
+80  = Good / some mistakes  
+70   
+60  
+50 = Fair / some major conceptual errors  
+40  
+30  
+20 = Poor / did not finish  
+10   
 0 = Did not participate / did not hand in  
 
 A weighted overall average of 10 constitutes a perfect grade and is equivalent to an A. Here are tentative grade ranges for you reference. Note that these might be adjusted.  
 
-|A  | &gt; 9.5|
-|A- | &gt; 9 - &le; 9.5
-|B+ | &gt; 8.5 - &le; 9
-|B  | &gt; 8 - &le; 8.5
-|B- | &gt; 7,5 - &le; 8
-|C+ | &gt; 7 - &le; 7.5
-|C  | &gt; 6.5 - &le; 7
-|C- | &gt; 6 - &le; 6.5
+|A  | &gt; 95|
+|A- | &gt; 90 - &le; 95
+|B+ | &gt; 85 - &le; 90
+|B  | &gt; 80 - &le; 85
+|B- | &gt; 75 - &le; 80
+|C+ | &gt; 70 - &le; 75
+|C  | &gt; 65 - &le; 70
+|C- | &gt; 60 - &le; 65
 
 In addition, the staff will select the top projects through a review and voting process. These projects will be presented during our last lecture, featured on the website, and get up to 12 points for their exceptional work. A small number of projects will win the coveted Best Project prize including Swiss chocolate.
 
