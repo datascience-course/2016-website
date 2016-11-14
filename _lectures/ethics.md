@@ -1,6 +1,6 @@
 ---
 key: ethics
-topic: Weapons of Math Desctruction&#58; Discrimination by Algorithms
+topic: Weapons of Math Destruction&#58; Discrimination by Algorithms
 description:
 mandatory-reading: |
 recommended-reading: | 
