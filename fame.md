@@ -20,8 +20,8 @@ Annie Yun
 ## Second Place: Puppies, Sharks, and Bears - Oh my!
 
 Ellen Reat, Andy Trow, Nadia Nishu  
-[Jupyter Notbeook](https://github.com/datascience-course/2016_best_projects/blob/master/Puppies%2C%20Sharks%2C%20and%20Bears%20-%20Oh%20my!/puppies-sharks-bears.ipynb) 
-
+[Jupyter Notbeook](https://github.com/datascience-course/2016_best_projects/blob/master/Puppies%2C%20Sharks%2C%20and%20Bears%20-%20Oh%20my!/puppies-sharks-bears.ipynb)   
+[Project Video](https://youtu.be/ZwNyOdiGZgM)
 
 ## Third Place: New York City Schools Survey
 
